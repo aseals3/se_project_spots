@@ -1,6 +1,12 @@
 .page {
-  background-color: #fcf5e5;
-  font-family: "Poppins", sans-serif;
+  background-color: hsl(42, 79%, 94%);
+  font-family: Poppins, Arial, sans-serif;
   font-weight: 100;
   font-style: normal;
+  min-height: 100vh;
+}
+
+.page__section {
+  max-width: 1280px;
+  margin: 0 auto;
 }
